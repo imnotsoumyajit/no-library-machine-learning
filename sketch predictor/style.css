@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #313141;
+}
+h1{
+    color: rgb(140, 153, 165);
+}
+#content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+} 
